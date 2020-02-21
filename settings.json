@@ -1,0 +1,8 @@
+{
+    "amazon": "https://www.amazon.com/-/es",
+    "drivers": {
+        "chrome": {
+            "executable_path": "./project/resources/drivers/chromedriver.exe"
+        }
+    }
+}
